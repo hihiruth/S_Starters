@@ -36,7 +36,6 @@ document.addEventListener('DOMContentLoaded', () => {
     "There should be a law that demands...",
     "The thing I'm most proud of accomplishing is...",
     "If I could have any job in the world, I would be a..."
-    
   ];
 
   function getRandomElement(array) {
