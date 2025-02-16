@@ -34,7 +34,13 @@ document.addEventListener('DOMContentLoaded', () => {
     "The thing I'm most proud of accomplishing is...",
     "The most important thing in life is...",
     "The best advice I ever received was...",
-    "The thing I find most fulfilling in life is..."
+    "The thing I find most fulfilling in life is...",
+    "The place I feel most at peace is...",
+    "The one thing I would change about the world is...",
+    "The biggest mistake I ever made was...",
+    "The thing I'm most excited about in the future is...",
+    "The thing I'm most grateful for in my life is...",
+    "The thing I love most about myself is..."
   ];
 
   function updateSentenceStarterList() {
