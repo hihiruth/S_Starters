@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "Deep in the heart of the forest,",
     "Legend has it that...",
     "Many years ago,",
-    "The adventure began when...",
+    "If I could have any job in the world, I would be a...",
     "The thing I look forward to most each day is...",
     "The lesson I learned the hard way is...",
     "The thing I would tell my younger self if I could is...",
@@ -31,8 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     "The thing I'm most passionate about is...",
     "The world would be a better place if...",
     "There should be a law that demands...",
-    "The thing I'm most proud of accomplishing is...",
-    "If I could have any job in the world, I would be a..."
+    "The thing I'm most proud of accomplishing is..."
   ];
 
   function updateSentenceStarterList() {
