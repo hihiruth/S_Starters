@@ -14,7 +14,15 @@ document.addEventListener('DOMContentLoaded', () => {
     "Deep in the heart of the forest,",
     "Legend has it that...",
     "Many years ago,",
-    "The adventure began when..."
+    "The adventure began when...",
+    "The thing I look forward to most each day is...",
+    "The lesson I learned the hard way is...",
+    "The thing I would tell my younger self if I could is...",
+    "The thing I'm most afraid of is...",
+    "The thing I'm learning to appreciate more and more is...",
+    "A perfect day for me would include...",
+    "If only people realized that...",
+    "The thing I value most in a friendship is..."
   ];
 
   function updateSentenceStarterList() {
