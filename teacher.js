@@ -22,7 +22,17 @@ document.addEventListener('DOMContentLoaded', () => {
     "The thing I'm learning to appreciate more and more is...",
     "A perfect day for me would include...",
     "If only people realized that...",
-    "The thing I value most in a friendship is..."
+    "The thing I value most in a friendship is...",
+    "If I could live anywhere in the world, I would choose...",
+    "If I could go back in time, I would...",
+    "The thing I would like to be remembered for is...",
+    "One thing I will never forget is...",
+    "The thing I miss most about my childhood is...",
+    "The thing I'm most passionate about is...",
+    "The world would be a better place if...",
+    "There should be a law that demands...",
+    "The thing I'm most proud of accomplishing is...",
+    "If I could have any job in the world, I would be a..."
   ];
 
   function updateSentenceStarterList() {
